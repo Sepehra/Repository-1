@@ -7,4 +7,5 @@ Another body text
 ```julia
 function x(t)
   return sin(t)
-end```
+end
+```
