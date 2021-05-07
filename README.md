@@ -1,12 +1,13 @@
 # Fist edit on README.md file
-## Subtitle
+## heading #1
 Body text is here
-## Another subtitle
+## Another heading
 Another body text
 
 ```julia
-function x(t)
-  return sin(t)
+function Great()
+  return "Hey! I'm a function"
 end
 ```
-This code generates paths modeled by mathematical expressions
+This is a simple expression
+---
