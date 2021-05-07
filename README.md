@@ -3,3 +3,8 @@
 Body text is here
 ## Another subtitle
 Another body text
+
+```julia
+function x(t)
+  return sin(t)
+end```
