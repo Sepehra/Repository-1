@@ -9,3 +9,4 @@ function x(t)
   return sin(t)
 end
 ```
+This code generates paths modeled by mathematical expressions
