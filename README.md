@@ -5,7 +5,7 @@ Body text is here
 Another body text
 
 ```julia
-function Great()
+function Greet()
   return "Hey! I'm a function"
 end
 ```
